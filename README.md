@@ -11,8 +11,8 @@ I am an Information Technology undergraduate specializing in building scalable b
 * **Methodologies:** RESTful API Architecture, Prompt Engineering (GenAI)
 
 ### 📌 Featured Projects
-* 📦 **[StockTracker](link-ke-repo):** A mobile inventory application utilizing React and Node.js with real-time MySQL database synchronization.
-* 🌐 **[Open API Regional Data](link-ke-repo):** A robust Node.js backend accelerating access to comprehensive Indonesian regional datasets.
-* 🍄 **[IoT Mushroom Monitor](link-ke-repo):** A C++ and Node.js integrated web system for real-time environmental monitoring.
+* 📦 **[StockTracker]([link-ke-repo](https://github.com/FarhatAsharfillah/StockTracker.git)):** A mobile inventory application utilizing React and Node.js with real-time MySQL database synchronization.
+* 🌐 **[Open API Regional Data]([link-ke-repo](https://github.com/FarhatAsharfillah/Project_Akhir_NusantaraAPI_20230140093.git)):** A robust Node.js backend accelerating access to comprehensive Indonesian regional datasets.
+* 🍄 **[IoT Mushroom Monitor]([link-ke-repo](https://github.com/B-PPAW-TI503P-2025/PROJECT_KELOMPOK4_SUHU-KELEMBABAN_UAS.git)):** A C++ and Node.js integrated web system for real-time environmental monitoring.
 
 📫 **Let's connect:** [farhatasharfillah03@gmail.com](mailto:farhatasharfillah03@gmail.com) | [LinkedIn](https://linkedin.com/in/farhatasharfillah)
