@@ -14,6 +14,7 @@ I am an Information Technology undergraduate with a dual focus on Full-Stack Dev
 ### 📌 Featured Projects
 * 🚗 **[Real-Time Pothole Detection](https://github.com/FarhatAsharfillah/pothole-detection-yolo11-cnn.git):** A comparative Computer Vision research study evaluating YOLOv11 against CNN (MobileNetV2) for dynamic infrastructure damage detection.
 * 🌦️ **[Daily Rainfall Prediction](https://github.com/FarhatAsharfillah/weather-prediction-xgboost-randomforest.git):** A Machine Learning pipeline addressing extreme class imbalance using SMOTE to compare XGBoost and Random Forest algorithms for early warning systems.
+* 🌿 **[Magna Care](https://github.com/FarhatAsharfillah/MagnaCare.git):** A full-stack e-commerce web application for skincare products featuring a responsive React frontend, Node.js RESTful API, and secure Aiven MySQL cloud integration.
 * 📦 **[StockTracker](https://github.com/FarhatAsharfillah/StockTracker.git):** A mobile inventory application utilizing React and Node.js with real-time MySQL database synchronization.
 * 🌐 **[Open API Regional Data](https://github.com/FarhatAsharfillah/Project_Akhir_NusantaraAPI_20230140093.git):** A robust Node.js backend accelerating access to comprehensive Indonesian regional datasets.
 * 🪪 **[National ID Management System](https://github.com/FarhatAsharfillah/national-id-management-system.git):** A full-stack CRUD web application built with Java Spring Boot and Ajax for secure demographic data processing.
